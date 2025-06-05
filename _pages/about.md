@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Tao Tang"
+title: "Tao Tang (唐涛)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is [here](/files/cv_old.pdf). 
+I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is [here: resume-PDF](/files/cv_old.pdf). 
 Before my Ph.D. study, I obtained my B.Eng. degree in school of Software from Dalian University of Technolog.
 
 
@@ -17,7 +17,10 @@ I am also investigating the self-improving capability of vision-language-action 
 My prior research focuses were on Self-Supervised Learning and Neural Architecture Search (NAS). 
 <!-- I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu). -->
 
-
+Contact
+------------------------
+Email: trent.tangtao@gmail.com
+WeiXin & Phone: 15755623037
 
 Current Status
 ------------------------
@@ -31,7 +34,7 @@ Reviewer for: TPAMI, CVPR, ICCV, ECCV, ICLR, ICLM, NeurIPS, ACMMM, AAAI, and 3DV
 
 Recent News
 ------------------------
-Detailed papers can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1000 citations to date.
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1000 citations to date.
 
 1 [paper](https://arxiv.org/pdf/2406.02147) is accepted by ICML2025.
 
