@@ -19,8 +19,7 @@ My prior research focuses were on Self-Supervised Learning and Neural Architectu
 
 Contact
 ------------------------
-Email: trent.tangtao@gmail.com
-WeiXin & Phone: 15755623037
+📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
 
 Current Status
 ------------------------
