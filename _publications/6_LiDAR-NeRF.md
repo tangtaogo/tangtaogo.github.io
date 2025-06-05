@@ -2,8 +2,8 @@
 title: "LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields"
 collection: publications
 # permalink: /publication/clipself
-conf: 'ACM International Conference on Multimedia'
-conf_shortname: 'ACM MM'
+conf: 'ACM MM'
+# conf_shortname: 'ACM MM'
 year: '2024'
 author: <strong>Tang Tao</strong>, Longfei Gao, Guangrun Wang, Peng Chen, Dayang Hao, Xiaodan Liang, Mathieu Salzmann, Kaicheng Yu 
 codeurl: https://github.com/tangtaogo/lidar-nerf

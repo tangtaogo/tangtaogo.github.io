@@ -1,17 +1,17 @@
 ---
-title: "AlignMiF: Geometry-Aligned Multimodal Implicit Field for LiDAR-Camera Joint Synthesis"
+title: "MLP Can Be A Good Transformer Learner"
 collection: publications
 # permalink: /publication/flmm
 conf: 'CVPR'
 # conf_shortname: 'CVPR'
 year: '2024'
-author: <strong>Tang Tao</strong>, Guangrun Wang, Yixing Lao, Peng Chen, Jie Liu, Liang Lin, Kaicheng Yu, Xiaodan Liang
-codeurl: https://github.com/tangtaogo/alignmif
-paperurl: https://arxiv.org/abs/2402.17483
+author: Sihao Lin, Pumeng Lyu, Dongrui Liu, <strong>Tang Tao</strong>, Xiaodan Liang, Andy Song, Xiaojun Chang
+codeurl: https://github.com/sihaoevery/lambda_vit
+paperurl: https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_MLP_Can_Be_A_Good_Transformer_Learner_CVPR_2024_paper.pdf
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
-highlight: 'Highlight'
+highlight: 'Best paper candidate'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'

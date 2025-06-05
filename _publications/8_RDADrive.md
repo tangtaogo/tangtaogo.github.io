@@ -2,8 +2,8 @@
 title: "Making large language models better planners with reasoning-decision alignmen"
 collection: publications
 # permalink: /publication/clim
-conf: 'European Conference on Computer Vision'
-conf_shortname: 'ECCV'
+conf: 'ECCV'
+# conf_shortname: 'ECCV'
 year: '2024'
 author: Zhijian Huang*, <strong>Tang Tao*</strong>, Shaoxiang Chen, Sihao Lin, Zequn Jie, Lin Ma, Guangrun Wang, Xiaodan Liang
 codeurl: https://github.com/zhijian11/RDA-Driver

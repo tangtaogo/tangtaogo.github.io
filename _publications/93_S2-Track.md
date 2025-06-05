@@ -2,8 +2,8 @@
 title: "S2-Track: A Simple yet Strong Approach for End-to-End 3D Multi-Object Tracking"
 collection: publications
 # permalink: /publication/graph
-conf: 'International Conference on Machine Learning'
-conf_shortname: 'ICML'
+conf: 'ICML'
+# conf_shortname: 'ICML'
 year: '2025'
 author: <strong>Tao Tang*</strong>, Lijun Zhou*, Pengkun Hao, Zihang He, Kalok Ho, Shuo Gu, Zhihui Hao, Haiyang Sun, Kun Zhan, Peng Jia, Xianpeng Lang, Xiaodan Liang
 # codeurl: https://arxiv.org/pdf/2406.02147

@@ -2,8 +2,8 @@
 title: "BEV-TSR: Text-Scene Retrieval in BEV Space for Autonomous Driving"
 # collection: publications
 # permalink: /publication/baron
-conf: 'Association for the Advancement of Artificial Intelligencen'
-conf_shortname: 'AAAI'
+conf:  'AAAI'
+# conf_shortname: 'AAAI'
 year: '2025'
 author: <strong>Tang Tao*</strong>, Dafeng Wei*, Zhengyu Jia*, Tian Gao*, Changwei Cai, Chengkai Hou, Peng Jia, Kun Zhan, Haiyang Sun, Jingchen Fan, Yixing Zhao, Fu Liu, Xiaodan Liang, Xianpeng Lang, Yang Wang
 # codeurl: https://github.com/wusize/ovdet

@@ -4,8 +4,8 @@ collection: publications
 # permalink: /publication/flmm
 conf: 'CVPR'
 # conf_shortname: 'CVPR'
-year: '2024'
-author: <strong>Tang Tao</strong>, Guangrun Wang, Yixing Lao, Peng Chen, Jie Liu, Liang Lin, Kaicheng Yu, Xiaodan Liang
+year: '2023'
+author: <strong>Tang Tao</strong>,, Guangrun Wang, Yixing Lao, Peng Chen, Jie Liu, Liang Lin, Kaicheng Yu, Xiaodan Liang
 codeurl: https://github.com/tangtaogo/alignmif
 paperurl: https://arxiv.org/abs/2402.17483
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
