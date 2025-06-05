@@ -1,5 +1,5 @@
 ---
-title: "Making large language models better planners with reasoning-decision alignmen"
+title: "Making large language models better planners with reasoning-decision alignment"
 collection: publications
 # permalink: /publication/clim
 conf: 'ECCV'
