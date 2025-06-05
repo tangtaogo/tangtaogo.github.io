@@ -5,8 +5,7 @@ collection: publications
 conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
 conf_shortname: 'CVPR'
 year: '2024'
-author: , Guangrun Wang, Yixing Lao, Peng Chen, Jie Liu, Liang Lin, Kaicheng Yu, Xiaodan Liang
-
+author: <strong>Tang Tao</strong>,, Guangrun Wang, Yixing Lao, Peng Chen, Jie Liu, Liang Lin, Kaicheng Yu, Xiaodan Liang
 codeurl: https://github.com/tangtaogo/alignmif
 paperurl: https://arxiv.org/abs/2402.17483
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
