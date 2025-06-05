@@ -1,5 +1,5 @@
 ---
-title: "LiT: Unifying LiDAR" Languages" with LiDAR Translator"
+title: "LiT: Unifying LiDAR Languages with LiDAR Translator"
 collection: publications
 # permalink: /publication/flmm
 conf: 'NeurIPS'
