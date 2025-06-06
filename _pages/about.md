@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is [here: resume-PDF](/files/cv_old.pdf). 
+I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
 Before my Ph.D. study, I obtained my B.Eng. degree in school of Software from Dalian University of Technolog.
 
 
