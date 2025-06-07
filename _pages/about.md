@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
-Before my Ph.D. study, I obtained my B.Eng. degree in school of Software from Dalian University of Technolog.
+Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog.
 
 
 My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of perception tasks in complex environments. 
