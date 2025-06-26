@@ -35,6 +35,8 @@ Recent News
 ------------------------
 Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1000 citations to date.
 
+🔥 Our [RoboPearls](https://arxiv.org/pdf/xxxx.xxxx) is accepted by ICCV2025.
+
 1 [paper](https://arxiv.org/pdf/2406.02147) is accepted by ICML2025.
 
 1 [paper](https://arxiv.org/pdf/2309.16179) is accepted by TPAMI.
