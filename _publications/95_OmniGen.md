@@ -1,13 +1,13 @@
 ---
-title: "RoboPearls: Editable Video Simulation for Robot Manipulation"
+title: "OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving"
 collection: publications
 # permalink: /publication/graph
-conf: 'ICCV'
+conf: 'ACM MM'
 # conf_shortname: 'ICML'
 year: '2025'
-author: <strong>Tao Tang*</strong>, Likui Zhang*, Youpeng Wen, Kaidong Zhang, Jia Wang Bian, Xia Zhou, Tianyi Yan, Kun Zhan, Peng Jia, Hefeng Wu, Liang Lin, Xiaodan Liang
+author: <strong>Tao Tang</strong>, Enhui Ma, Xia Zhou, Letian Wang, Tianyi Yan, Xueyang Zhang, Kun Zhan, Peng Jia, XianPeng Lang, Jia-Wang Bian, Kaicheng Yu, Xiaodan Liang
 # codeurl: https://arxiv.org/pdf/2406.02147
-paperurl: https://arxiv.org/abs/2506.22756
+paperurl: https://arxiv.org/abs/2506.xxxxx
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
