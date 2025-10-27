@@ -11,8 +11,8 @@ I am a fourth-year Ph.D. student at the School of Intelligent Systems Engineerin
 Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog.
 
 
-My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of perception tasks in complex environments. 
-Currently, I am exploring sensor simulation and data generation for autonomous driving and robotics. 
+My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks in complex environments. 
+Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
 I am also investigating the self-improving capability of vision-language-action (VLA) models.
 My prior research focuses were on Self-Supervised Learning and Neural Architecture Search (NAS). 
 <!-- I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu). -->
