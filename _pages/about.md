@@ -33,10 +33,10 @@ Reviewer for: TPAMI, CVPR, ICCV, ECCV, ICLR, ICLM, NeurIPS, ACMMM, AAAI, and 3DV
 
 Recent News
 ------------------------
-Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1100 citations to date.
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1330 citations to date.
 
-🔥 Our [OminiGen](https://arxiv.org/abs/2506.xxxxx) is accepted by ACM MM2025.
-
+🔥 Our [OminiGen](https://dl.acm.org/doi/10.1145/3746027.3754772) is accepted by ACM MM2025.
+ 
 🔥 Our [RoboPearls](https://arxiv.org/abs/2506.22756) is accepted by ICCV2025.
 
 1 [paper](https://arxiv.org/pdf/2406.02147) is accepted by ICML2025.

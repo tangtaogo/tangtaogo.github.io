@@ -7,7 +7,7 @@ conf: 'ACM MM'
 year: '2025'
 author: <strong>Tao Tang</strong>, Enhui Ma, Xia Zhou, Letian Wang, Tianyi Yan, Xueyang Zhang, Kun Zhan, Peng Jia, XianPeng Lang, Jia-Wang Bian, Kaicheng Yu, Xiaodan Liang
 # codeurl: https://arxiv.org/pdf/2406.02147
-paperurl: https://arxiv.org/abs/2506.xxxxx
+paperurl: https://dl.acm.org/doi/10.1145/3746027.3754772
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
