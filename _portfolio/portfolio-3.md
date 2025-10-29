@@ -1,6 +1,6 @@
 ---
-title: "CVPR 24"
-excerpt: "<br/><img src='/images/1.jpeg'>"
+title: "ICCV 25"
+excerpt: "<br/><img src='/images/3.jpg'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "CVPR 24"
-excerpt: "<br/><img src='/images/1.jpeg'>"
+title: "达摩院"
+excerpt: "硕凡导师 <br/><img src='/images/4.jpg'>"
 collection: portfolio
 ---
 

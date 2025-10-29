@@ -1,6 +1,6 @@
 ---
 title: "CVPR 24"
-excerpt: "<br/><img src='/images/1.jpeg'>"
+excerpt: "西湖大学 于开丞老师<br/><img src='/images/2.jpg'>"
 collection: portfolio
 ---
 
