@@ -16,7 +16,7 @@ Current Status
 
 Research Interests
 ------------------------
-My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks in complex environments. 
+My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks. 
 
 - Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
 
