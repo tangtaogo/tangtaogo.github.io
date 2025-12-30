@@ -10,6 +10,10 @@ redirect_from:
 I am a Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
 Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog.
 
+Current Status
+------------------------
+🔥 I am actively looking for job opportunities and plan to graduate in 2026!!!
+
 Research Interests
 ------------------------
 My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks in complex environments. 
@@ -26,18 +30,22 @@ Contact
 ------------------------
 📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
 
-Current Status
-------------------------
-🔥 I am actively looking for job opportunities and plan to graduate in 2026!!!
 
+Honors & Awards
+------------------------
+- National Scholarship (Doctoral Level), 2025
+
+- National Scholarship (Undergraduate Level), 2021
 
 Recent News
 ------------------------
-Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1330 citations to date.
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1400 citations to date.
 
-2 papers [CorrectAD](https://arxiv.org/abs/2406.01349) and [LiDAR-GS++](https://github.com/cqf7419/LiDAR-GS) are accepted by AAAI2026. 
+2 papers [CorrectAD](https://arxiv.org/abs/2406.01349) and [LiDAR-GS++](https://github.com/cqf7419/LiDAR-GS) are accepted by AAAI 2026. 
 
-1 paper [OminiGen](https://dl.acm.org/doi/10.1145/3746027.3754772) is accepted by ACM MM 2025.
+1 paper [LiDAR-GS](https://github.com/cqf7419/LiDAR-GS) are accepted by CVM 2026. 
+
+1 paper [OminiGen](https://arxiv.org/pdf/2512.14225) is accepted by ACM MM 2025.
  
 1 paper [RoboPearls](https://arxiv.org/abs/2506.22756) is accepted by ICCV 2025.
 
@@ -51,7 +59,7 @@ Detailed papers can be found on my [Google Scholar](https://scholar.google.com/c
 
 1 paper [BossNAS++](https://www.computer.org/csdl/journal/tp/5555/01/10839629/23th14MPwZi) is accepted by TPAMI.
 
-1 paper [LiT](https://proceedings.neurips.cc/paper_files/paper/2024/file/aa76025af7f8d69338c4b5ee29f66e70-Paper-Conference.pdf) is accepted by NeurIPS2024. 
+1 paper [LiT](https://proceedings.neurips.cc/paper_files/paper/2024/file/aa76025af7f8d69338c4b5ee29f66e70-Paper-Conference.pdf) is accepted by NeurIPS 2024. 
 
 2 papers [RDA-Drive](https://arxiv.org/pdf/2408.13890) and [OpenSight](https://proceedings.neurips.cc/paper_files/paper/2024/file/aa76025af7f8d69338c4b5ee29f66e70-Paper-Conference.pdf) are accepted by ECCV 2024 (one oral and one poster). 
 
