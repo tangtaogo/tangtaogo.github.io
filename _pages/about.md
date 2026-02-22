@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
+<!-- I am a Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
+Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog. -->
+
+I am a Ph.D. student at Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
 Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog.
 
 Current Status
@@ -18,7 +21,7 @@ Research Interests
 ------------------------
 My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks. 
 
-- Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
+- 🔥 Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
 
 - I am also investigating the self-improving capability of vision-language-action (VLA) models.
 
@@ -39,13 +42,15 @@ Honors & Awards
 
 Recent News
 ------------------------
-Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1400 citations to date.
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1500 citations to date.
+
+🔥 2 papers are accepted by CVPR 2026. 
 
 2 papers [CorrectAD](https://arxiv.org/abs/2406.01349) and [LiDAR-GS++](https://github.com/cqf7419/LiDAR-GS) are accepted by AAAI 2026. 
 
 1 paper [LiDAR-GS](https://github.com/cqf7419/LiDAR-GS) are accepted by CVM 2026. 
 
-1 paper [OminiGen](https://arxiv.org/pdf/2512.14225) is accepted by ACM MM 2025.
+1 paper [OmniGen](https://arxiv.org/pdf/2512.14225) is accepted by ACM MM 2025.
  
 1 paper [RoboPearls](https://arxiv.org/abs/2506.22756) is accepted by ICCV 2025.
 
@@ -65,7 +70,7 @@ Detailed papers can be found on my [Google Scholar](https://scholar.google.com/c
 
 1 paper [LiDAR-NeRF](https://arxiv.org/pdf/2304.10406.pdf) is accepted by ACM MM 2024 (oral). 
 
-2 papers [AlignMiF](https://arxiv.org/abs/2402.17483) and [MLP_CBA](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_MLP_Can_Be_A_Good_Transformer_Learner_CVPR_2024_paper.pdf) are accepted by CVPR 2024 (one best paper candidate and one highlight). 
+2 papers [AlignMiF](https://arxiv.org/abs/2402.17483) and [MLP](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_MLP_Can_Be_A_Good_Transformer_Learner_CVPR_2024_paper.pdf) are accepted by CVPR 2024 (one best paper candidate and one highlight). 
 
 1 paper [BEVHeight](https://arxiv.org/pdf/2303.08498.pdf) is accepted by CVPR 2023. 
 
