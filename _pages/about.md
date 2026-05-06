@@ -20,11 +20,9 @@ During my doctoral studies, I was a member of the [HCP-Lab](https://www.sysu-hcp
 Prior to my Ph.D., I obtained my B.Eng. degree from the School of Software at Dalian University of Technology.
 
 
-Research Interests: My research primarily focuses on <b>Autonomous Driving and Embodied AI</b>. Currently, I am mainly concentrated on World Models, while also being involved in research related to VLA and RL training.
+-  Research Interests: My research primarily focuses on <b>Autonomous Driving and Embodied AI</b>. Currently, I am mainly concentrated on  <b>World Models</b>, while also being involved in research related to  <b>VLA and RL training</b>.
 
-I'm always looking for related colaboration. If you are interested to chat with me, feel free to contact me.
-
-Contact: 📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
+-  I'm always looking for related colaboration. If you are interested to chat with me, feel free to contact me.  📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
 
 
 
@@ -42,7 +40,7 @@ EXPERIENCE
 
 - 2026.06: Ph.D. Graduation, Sun Yat-sen University.
 
-- 2023.12 - 2025.05: </b>Li Auto</b>, Autonomous Driving Lab, Research Intern, working on <b>world model</b> for autonomous driving.
+- 2023.12 - 2025.05: <b>Li Auto</b>, Autonomous Driving Lab, Research Intern, working on <b>world model</b> for autonomous driving.
 
 - 2022.03 - 2023.12: <b>Alibaba Group</b>, DAMO Academy, Autonomous Driving Lab, Research Intern, working on <b>3D robust object detection and sensor simulation</b>.
 
