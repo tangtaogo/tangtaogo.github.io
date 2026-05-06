@@ -10,22 +10,50 @@ redirect_from:
 <!-- I am a Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
 Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog. -->
 
-I am a Ph.D. student at Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
-Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog.
+<!-- I am a Ph.D. student at Sun Yat-sen University. I am a member of [HCP-Lab](https://www.sysu-hcp.net/home/), supervised by Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). My resume is here: [resume-PDF](/files/cv.pdf). 
+Before my Ph.D. study, I obtained my B.Eng. degree in School of Software from Dalian University of Technolog. -->
 
-Current Status
-------------------------
-🔥 I am actively looking for job opportunities and plan to graduate in 2026!!!
+
+I am an incoming World Model Engineer at [Yinwang](https://www.yinwang.com/cn/). 
+I will receive my Ph.D. from Sun Yat-sen University in June 2026. 
+During my doctoral studies, I was a member of the [HCP-Lab](https://www.sysu-hcp.net/home/), under the supervision of Professor [Xiaodan Liang](https://ise.sysu.edu.cn/teacher/LiangXiaodan). 
+Prior to my Ph.D., I obtained my B.Eng. degree from the School of Software at Dalian University of Technology.
+
 
 Research Interests
 ------------------------
+My research primarily focuses on Autonomous Driving and Embodied AI. Currently, I am mainly concentrated on World Models, while also being involved in research related to VLA and RL training.
+
+
+News
+------------------------
+- 🔥 2026.07: Joining [Yinwang](https://www.yinwang.com/cn/) as a World Model Engineer.
+  
+- 🔥 1 paper [GeoThinker](https://arxiv.org/abs/2602.06037) is accepted by ICML 2026.
+
+
+EXPERIENCE
+------------------------
+- 2026.06: Ph.D. Graduation, Sun Yat-sen University.
+
+- 2023.12 - 2025.05: Li Auto, Autonomous Driving Lab, Research Intern, working on world model for autonomous driving.
+
+- 2022.03 - 2023.12: Alibaba Group, DAMO Academy, Autonomous Driving Lab, Research Intern, working on 3D robust object detection and sensor simulation.
+
+- 2021.03 - 2021.08: Dark Matter AI, Auto-ML Lab, Research Intern, working on neural architecture search and self-supervised learning
+
+- 2021.06: B.Eng. Graduation, Dalian University of Technology.
+
+
+<!-- Research Interests
+------------------------
 My research focuses on learning 2D and 3D representations of objects and scenes to improve the accuracy and robustness of autonomous driving and robotics tasks. 
 
-- 🔥 Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
+- Currently, I am exploring sensor simulation and data generation (i.e., World Model). 
 
 - I am also investigating the self-improving capability of vision-language-action (VLA) models.
 
-- My prior research focuses were on Self-Supervised Learning (SSL) and Neural Architecture Search (NAS). 
+- My prior research focuses were on Self-Supervised Learning (SSL) and Neural Architecture Search (NAS).  -->
 
 <!-- I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu). -->
 
@@ -40,15 +68,17 @@ Honors & Awards
 
 - National Scholarship (Undergraduate Level), 2021
 
-Recent News
-------------------------
-Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1500 citations to date.
 
-🔥 2 papers are accepted by CVPR 2026. 
+Papers
+------------------------
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1800 citations to date.
+
+
+2 papers [AD-R1](https://arxiv.org/abs/2511.20325) and [DriveCombo](https://arxiv.org/abs/2603.01637) are accepted by CVPR 2026. 
 
 2 papers [CorrectAD](https://arxiv.org/abs/2406.01349) and [LiDAR-GS++](https://github.com/cqf7419/LiDAR-GS) are accepted by AAAI 2026. 
 
-1 paper [LiDAR-GS](https://github.com/cqf7419/LiDAR-GS) are accepted by CVM 2026. 
+1 paper [LiDAR-GS](https://github.com/cqf7419/LiDAR-GS) is accepted by CVM 2026. 
 
 1 paper [OmniGen](https://arxiv.org/pdf/2512.14225) is accepted by ACM MM 2025.
  
