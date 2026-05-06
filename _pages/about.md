@@ -20,9 +20,12 @@ During my doctoral studies, I was a member of the [HCP-Lab](https://www.sysu-hcp
 Prior to my Ph.D., I obtained my B.Eng. degree from the School of Software at Dalian University of Technology.
 
 
-Research Interests
-------------------------
-My research primarily focuses on Autonomous Driving and Embodied AI. Currently, I am mainly concentrated on World Models, while also being involved in research related to VLA and RL training.
+Research Interests: My research primarily focuses on <b>Autonomous Driving and Embodied AI</b>. Currently, I am mainly concentrated on World Models, while also being involved in research related to VLA and RL training.
+
+I'm always looking for related colaboration. If you are interested to chat with me, feel free to contact me.
+
+Contact: 📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
+
 
 
 News
@@ -34,13 +37,16 @@ News
 
 EXPERIENCE
 ------------------------
+
+- 2026.07: Joining [Yinwang](https://www.yinwang.com/cn/) as a World Model Engineer.
+
 - 2026.06: Ph.D. Graduation, Sun Yat-sen University.
 
-- 2023.12 - 2025.05: Li Auto, Autonomous Driving Lab, Research Intern, working on world model for autonomous driving.
+- 2023.12 - 2025.05: </b>Li Auto</b>, Autonomous Driving Lab, Research Intern, working on <b>world model</b> for autonomous driving.
 
-- 2022.03 - 2023.12: Alibaba Group, DAMO Academy, Autonomous Driving Lab, Research Intern, working on 3D robust object detection and sensor simulation.
+- 2022.03 - 2023.12: <b>Alibaba Group</b>, DAMO Academy, Autonomous Driving Lab, Research Intern, working on <b>3D robust object detection and sensor simulation</b>.
 
-- 2021.03 - 2021.08: Dark Matter AI, Auto-ML Lab, Research Intern, working on neural architecture search and self-supervised learning
+- 2021.03 - 2021.08: <b>Dark Matter AI</b>, Auto-ML Lab, Research Intern, working on <b>neural architecture search and self-supervised learning</b>.
 
 - 2021.06: B.Eng. Graduation, Dalian University of Technology.
 
@@ -57,9 +63,9 @@ My research focuses on learning 2D and 3D representations of objects and scenes 
 
 <!-- I work closely with [Wenwei Zhang](http://zhangwenwei.cn/), [Sheng Jin](https://jin-s13.github.io/) and [Lumin Xu](https://github.com/luminxu). -->
 
-Contact
+<!-- Contact
 ------------------------
-📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
+📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037 -->
 
 
 Honors & Awards
@@ -73,6 +79,7 @@ Papers
 ------------------------
 Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1800 citations to date.
 
+1 paper [GeoThinker](https://arxiv.org/abs/2602.06037) is accepted by ICML 2026.
 
 2 papers [AD-R1](https://arxiv.org/abs/2511.20325) and [DriveCombo](https://arxiv.org/abs/2603.01637) are accepted by CVPR 2026. 
 
