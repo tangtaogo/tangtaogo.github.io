@@ -22,7 +22,7 @@ Prior to my Ph.D., I obtained my B.Eng. degree from the School of Software at Da
 
 -  Research Interests: My research primarily focuses on <b>Autonomous Driving and Embodied AI</b>. Currently, I am mainly concentrated on  <b>World Models</b>, while also being involved in research related to  <b>VLA and RL training</b>.
 
--  I'm always looking for related colaboration. If you are interested to chat with me, feel free to contact me.  📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037
+-  I'm always looking for related colaboration. If you are interested to chat with me, feel free to <b> contact me</b>  📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037.
 
 
 
@@ -36,7 +36,7 @@ News
 Experience
 ------------------------
 
-- 2026.07: Joining [Yinwang](https://www.yinwang.com/cn/) as a World Model Engineer.
+- 2026.07: Joining <b>Yinwang</b> as a World Model Engineer.
 
 - 2026.06: Ph.D. Graduation, Sun Yat-sen University.
 
