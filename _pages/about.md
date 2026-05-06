@@ -33,7 +33,7 @@ News
 - 🔥 1 paper [GeoThinker](https://arxiv.org/abs/2602.06037) is accepted by ICML 2026.
 
 
-EXPERIENCE
+Experience
 ------------------------
 
 - 2026.07: Joining [Yinwang](https://www.yinwang.com/cn/) as a World Model Engineer.
@@ -66,7 +66,7 @@ My research focuses on learning 2D and 3D representations of objects and scenes 
 📧 Email: trent.tangtao@gmail.com  📱 Phone & Wechat: 15755623037 -->
 
 
-Honors & Awards
+Awards
 ------------------------
 - National Scholarship (Doctoral Level), 2025
 
