@@ -30,8 +30,6 @@ News
 ------------------------
 - 🔥 2026.07: Joining [Yinwang](https://www.yinwang.com/cn/) as a World Model Engineer.
   
-- 🔥 1 paper [GeoThinker](https://arxiv.org/abs/2602.06037) is accepted by ICML 2026.
-
 
 Experience
 ------------------------
@@ -75,7 +73,7 @@ Awards
 
 Papers
 ------------------------
-Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1800 citations to date.
+Detailed papers can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1ltylFwAAAAJ), with over 1900 citations to date.
 
 1 paper [GeoThinker](https://arxiv.org/abs/2602.06037) is accepted by ICML 2026.
 
